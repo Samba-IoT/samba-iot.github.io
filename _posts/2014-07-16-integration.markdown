@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Integração
+subtitle: Diversos parceiros
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: integracao-canva.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

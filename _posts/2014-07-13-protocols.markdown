@@ -1,11 +1,11 @@
 ---
-title: Integração
-subtitle: Website Design
+title: Multi protocolos
+subtitle: HTTP, MQTT, MODBUS
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: multi-protocol-canva.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
