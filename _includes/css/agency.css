@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #000;
+    color: #fff;
     background-attachment: scroll;
 /*    background-image: url('{{ site.baseurl }}/img/Machine.gif'); */
     background-image: url('#');
