@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #000;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -258,7 +258,6 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #fff;
-        border-color: #000;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
