@@ -171,7 +171,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    border-color: transparent;
+    border-color: #000;
     background-color: #fff;
 }
 
@@ -269,8 +269,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/Machine.gif'); 
-/*    background-image: url('#'); */
+/*    background-image: url('{{ site.baseurl }}/img/Machine.gif'); */
+    background-image: url('#');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
