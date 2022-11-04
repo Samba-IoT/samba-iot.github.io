@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #000;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -224,13 +224,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #000;
+    color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #000;
+    color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #000;
     background-attachment: scroll;
 /*    background-image: url('{{ site.baseurl }}/img/Machine.gif'); */
     background-image: url('#');
