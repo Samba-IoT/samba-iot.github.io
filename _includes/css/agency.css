@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #000;
 }
 
 .navbar-default .navbar-brand {
@@ -210,7 +210,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #000;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -224,13 +224,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #000;
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #000;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -257,7 +257,8 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #fff;
+        border-color: #000;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -269,7 +270,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/Machine.gif');
+/*    background-image: url('{{ site.baseurl }}/img/Machine.gif'); */
+    background-image: url('#');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

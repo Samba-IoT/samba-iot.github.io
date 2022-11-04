@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+thumbnail: samba-device-canva.png
 alt: image-alt
 project-date: Setembro 09-22
 client: Start Bootstrap

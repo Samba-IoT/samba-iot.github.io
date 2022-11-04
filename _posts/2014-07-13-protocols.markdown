@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
-thumbnail: multi-protocol-canva.png
+thumbnail: multi-protocol-canva2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
