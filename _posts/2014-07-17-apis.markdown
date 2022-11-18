@@ -1,15 +1,26 @@
 ---
 title: Api's
-subtitle: Interface de programação de aplicativos
+subtitle: Consulte os dados e gerencie dispositivos
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: api3.png
 thumbnail: api-canva.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: API
+description: '
+<p style="text-align: left;"><strong>API</strong></p>
+<p style="text-align: left;">Por meio de API&rsquo;s a plataforma Samba Iot, disponibiliza diversos recursos para integra&ccedil;&atilde;o e ger&ecirc;nciamento de dispositivos, tornando f&aacute;cil e &aacute;gil uma integra&ccedil;&atilde;o do seu sistema com o dispositivo f&iacute;sico.</p>
+<p></p>
+
+<p style="text-align: left;">API&rsquo;s disponiveis:</p>
+<h4 style="text-align: left;">Samba api gateway</h4>
+<p style="text-align: left;"><strong>Samba api gateway</strong> &eacute; respons&aacute;vel por enviar dados para diferentes plataformas. 🚀</p>
+<h4 style="text-align: left;">Samba device</h4>
+<p style="text-align: left;"><strong>Samba device</strong> &eacute; respons&aacute;vel por gerenciar os dispositivos fisicos.</p>
+<h4 style="text-align: left;">Samba api</h4>
+<p style="text-align: left;">Samba api &eacute; respons&aacute;vel por ger&ecirc;nciar para onde os dados dos dispositivos ser&atilde;o enviados.</p>'
 
 ---
