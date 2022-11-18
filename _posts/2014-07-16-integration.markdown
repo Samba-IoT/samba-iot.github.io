@@ -1,6 +1,6 @@
 ---
 title: Integração
-subtitle: Diversos parceiros
+subtitle: Tenha disponível parceiros já homologados
 layout: default
 modal-id: 3
 date: 2014-07-16
