@@ -17,10 +17,20 @@ description: '
 
 <p style="text-align: left;">API&rsquo;s disponiveis:</p>
 <h4 style="text-align: left;">Samba api gateway</h4>
-<p style="text-align: left;"><strong>Samba api gateway</strong> &eacute; respons&aacute;vel por enviar dados para diferentes plataformas. 🚀</p>
+<p style="text-align: left;"><strong>Samba api gateway</strong> &eacute; respons&aacute;vel por enviar dados para diferentes plataformas. 🚀
+<br/> <a target="_blank" style="font-weight: bold;" href="http://api.sambaiot.com.br/api/v1/api-gateway/redocs">API Gateway docs</a>
+</p>
+
 <h4 style="text-align: left;">Samba device</h4>
-<p style="text-align: left;"><strong>Samba device</strong> &eacute; respons&aacute;vel por gerenciar os dispositivos fisicos.</p>
+<p style="text-align: left;"><strong>Samba device</strong> &eacute; respons&aacute;vel por gerenciar os dispositivos fisicos.
+<br/> <a target="_blank" style="font-weight: bold;" href="http://api.sambaiot.com.br/api/v1/device/redocs">Device docs</a>
+</p>
+
 <h4 style="text-align: left;">Samba api</h4>
-<p style="text-align: left;">Samba api &eacute; respons&aacute;vel por ger&ecirc;nciar para onde os dados dos dispositivos ser&atilde;o enviados.</p>'
+<p style="text-align: left;"><strong>Samba api</strong> &eacute; respons&aacute;vel por ger&ecirc;nciar para onde os dados dos dispositivos ser&atilde;o enviados.
+<br/> <a target="_blank" style="font-weight: bold;" href="http://api.sambaiot.com.br/api/v1/api/redocs">API docs</a>
+</p>
+<p></p>
+'
 
 ---
