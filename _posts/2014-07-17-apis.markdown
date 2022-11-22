@@ -11,7 +11,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: API
 description: '
-<p style="text-align: left;"><strong>API</strong></p>
+<p style="text-align: left;"><h1>SAMBA API</h1></p>
 <p style="text-align: left;">Por meio de API&rsquo;s a plataforma Samba Iot, disponibiliza diversos recursos para integra&ccedil;&atilde;o e ger&ecirc;nciamento de dispositivos, tornando f&aacute;cil e &aacute;gil uma integra&ccedil;&atilde;o do seu sistema com o dispositivo f&iacute;sico.</p>
 <p></p>
 

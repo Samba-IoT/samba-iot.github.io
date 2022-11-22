@@ -4,12 +4,17 @@ subtitle: Tenha disponível parceiros já homologados
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
+img: integracao.jpg
 thumbnail: integracao-canva.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Integração
+description: '
+<div style="text-align: left;">
+<p>
+Por meio de <a href="#"><strong>dispositivos</strong></a> e <a href="#"><strong>sistemas</strong></a> de parceiros já homologados em nossa plataforma fica simples a configuração de um novo dispositivo e um novo destino para a informação que virá dele.
+</p>
+</div>
+'
 ---
