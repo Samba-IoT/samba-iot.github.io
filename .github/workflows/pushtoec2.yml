@@ -42,12 +42,3 @@ jobs:
     steps:
       - name: Checkout the code
         uses: actions/checkout@v1
-
-      - name: Deploy to my EC2 instance
-        uses: easingthemes/ssh-deploy@v2.2.11
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.EC2_SERVICES }}
-          SOURCE: "./"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: "ec2-user"
-          TARGET: "/home/ec2-user/samba/samba-services"
